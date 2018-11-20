@@ -1,0 +1,12 @@
+Click==7.0
+dicttoxml==1.7.4
+Flask==1.0.2
+Flask-Cors==3.0.6
+Flask-Responses==0.2
+hrmcompiler==0.1.1
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.0
+pyparsing==2.3.0
+six==1.11.0
+Werkzeug==0.14.1
