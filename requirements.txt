@@ -1,7 +1,7 @@
 Click==7.0
 dicttoxml==1.7.4
 Flask==1.0.2
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 Flask-Responses==0.2
 hrmcompiler==0.2.0
 itsdangerous==1.1.0
